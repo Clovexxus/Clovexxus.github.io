@@ -18,9 +18,10 @@ body {
     font-size: 20px;
 }
 
-.hero-name-profile {
-    display: flex;
-    align-items: center;
-    gap: 20px;
-    flex-wrap: wrap;
+.profile-pic {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #00ff99;
 }
