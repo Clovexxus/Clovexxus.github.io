@@ -1,5 +1,5 @@
 body {
-    background-color: powderblue;
+    background-color: #858AE3;
 }
 
 .main {
@@ -8,7 +8,7 @@ body {
 
 .GFG {
     font-family: "Lucida Console", "Courier New", monospace;
-    color: #97DFFC;
+    color: #613DC1;
     font-size: 50px;
     font-weight: bold;
 }
