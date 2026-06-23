@@ -7,6 +7,7 @@ body {
 }
 
 .GFG {
+    font-family: "Lucida Console", "Courier New", monospace;
     color: #97DFFC;
     font-size: 50px;
     font-weight: bold;
