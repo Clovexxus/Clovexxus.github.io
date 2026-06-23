@@ -17,3 +17,10 @@ body {
     font-style: bold;
     font-size: 20px;
 }
+
+.hero-name-profile {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
